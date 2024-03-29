@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="9Volna.ru",9 Волна (Черкесск)
-https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
+http://172.105.77.17:9981/stream/mux/3cdea3a8e542679dd2a491fab8519050?ticket=472AA2E09C0430B45C990319048779D0C4CD49D5
 #EXTINF:-1 tvg-id="Channel12.ru",12 канал
-https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
+http://172.105.77.17:9981/stream/mux/3cdea3a8e542679dd2a491fab8519050?ticket=472AA2E09C0430B45C990319048779D0C4CD49D5
 #EXTINF:-1 tvg-id="Channel12.ru",12 канал (1080p)
 https://12channel.bonus-tv.ru/cdn/12channel/playlist.m3u8
 #EXTINF:-1 tvg-id="",49 канал (Новосибирск)
