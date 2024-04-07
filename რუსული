@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="6TVGorlovka.ru",6 ТВ Горловка
-http://91.237.3.3:4022/udp/224.2.2.4:10000
+http://65.108.0.37:8080/stbtv/stbtv/59
 #EXTINF:-1 tvg-id="7tv.ru",7 TV
 http://v4.proofix.ru/7tv-live/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="Channel43.ru",43 канал (Туапсе) (720p)
